@@ -8,7 +8,7 @@
 1. Клонируйте репозиторий:
 
     ```
-    git clone https://github.com/ALIILAPRO/DNS-Server-Switcher.git
+    git clone https://github.com/begugla0/dns-switcher/.git
     ```
 
 2. Перейдите в папку скрипта:
